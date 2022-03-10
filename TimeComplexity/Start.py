@@ -1,0 +1,1 @@
+print("Data structure in 30 days")
